@@ -23,10 +23,10 @@ A responsive, interactive web application to showcase and manage VIT college eve
 
 ->Backend integration for real event registration
 
-Admin panel for event management
+->Admin panel for event management
 
-Search autocomplete suggestions
+->Search autocomplete suggestions
 
-Mobile-first redesign with Tailwind or Bootstrap
+->Mobile-first redesign with Tailwind or Bootstrap
 
-Dark mode toggle
+->Dark mode toggle
