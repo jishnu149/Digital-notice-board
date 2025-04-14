@@ -18,9 +18,12 @@ A responsive, interactive web application to showcase and manage VIT college eve
 
 🎨 Responsive and clean UI with custom styles
 
-How to use it
+How to use it:
 
-[index.html.zip](https://github.com/user-attachments/files/19741114/index.html.zip)
+Click this link below:
+
+https://67fd4aeeddaf11ea59c6926a--starlit-youtiao-cbcb29.netlify.app/
+
 
 🧠 Future Improvements
 
