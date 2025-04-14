@@ -18,7 +18,9 @@ A responsive, interactive web application to showcase and manage VIT college eve
 
 🎨 Responsive and clean UI with custom styles
 
+How to use it
 
+[index.html.zip](https://github.com/user-attachments/files/19741114/index.html.zip)
 🧠 Future Improvements
 
 ->Backend integration for real event registration
@@ -30,3 +32,5 @@ A responsive, interactive web application to showcase and manage VIT college eve
 ->Mobile-first redesign with Tailwind or Bootstrap
 
 ->Dark mode toggle
+How to use it
+[index.html.zip](https://github.com/user-attachments/files/19741114/index.html.zip)
