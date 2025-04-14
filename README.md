@@ -32,5 +32,4 @@ How to use it
 ->Mobile-first redesign with Tailwind or Bootstrap
 
 ->Dark mode toggle
-How to use it
-[index.html.zip](https://github.com/user-attachments/files/19741114/index.html.zip)
+
